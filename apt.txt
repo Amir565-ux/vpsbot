@@ -1,5 +1,4 @@
-qemu-system-x86
-qemu-system-arm
-qemu-utils
-qemu-user
-qemu-user-static
+qemu-system
+cloud-image-utils
+wget
+lsof
